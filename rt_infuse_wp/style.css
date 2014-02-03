@@ -1,0 +1,25 @@
+/*
+Theme Name: Infuse Wordpress Theme
+Theme URI: http://www.rockettheme.com/wordpress-themes/infuse
+Description: Infuse, the March 2010 Club Theme release, is an infusion of artistic flair and functionality. The theme boasts six, individual and unique, style variations, meticulously constructed to perfection.
+Version: 1.1
+Author: RocketTheme, LLC
+Author URI: http://www.rockettheme.com
+*/
+
+.col {
+    border: 1px solid #EEEEEE;
+    float: left;
+    height: 250px;
+    margin: 5px;
+    width: 168px;
+}
+
+.prodOmg {
+    text-align: center;
+}
+
+.prodTitle {
+    text-align: center;
+}
+

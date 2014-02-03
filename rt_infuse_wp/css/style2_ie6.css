@@ -1,0 +1,31 @@
+/*- Light -*/
+#horiz-menu li .bullet {background: url(../images/style2/showcase/drop-bullet.png) 9px 11px no-repeat;}
+
+.style2 .fusion-js-container li .bullet {background: url(../images/style2/showcase/drop-bullet.png) 9px 11px no-repeat;}
+.style2 .fusion-js-container li.sfHover .bullet, .style2 .fusion-js-container li.f-menuparent-itemfocus .bullet, .style2 .fusion-js-container li.active .bullet {background: url(../images/style2/showcase/drop-bullet.png) 9px 11px no-repeat;color: #F0B400 !important;}
+
+.style2 .fusion-js-container li.active span {color: #F0B400 !important;}
+#horiz-menu li.root .daddy span {background: url(../images/style2/showcase/drop-bullet.png) 100% -225px no-repeat;}
+.style2 .fusion-js-container li .daddy span {background:transparent url(../images/style2/showcase/drop-bullet.png) no-repeat scroll 100% -110px;}
+.style2 .fusion-js-container li.sfHover {background-color: #efefef;}
+
+#horiz-menu .columns2 .drop-top {background: url(../images/style2/showcase/drop-bg-2.png) 50% 0 no-repeat;}
+
+#horiz-menu li.active  {background: none;}
+#horiz-menu li li.sfHover, #horiz-menu li li.active, #horiz-menu li.f-submenu-item-sfHover, #horiz-menu li li.f-menuparent-itemfocus {background: url(../images/style2/showcase/menu-drop-active2.png) 0 100% repeat-x;}
+
+.style2 #horiz-menu li.root .item {color: #F0AC9F;}
+.style2 #horiz-menu li .item {color: #F0AC9F;}
+.style2 #horiz-menu .level2 .item span {color:#F0AC9F;}
+
+#horiz-menu li.active-sfHover .item span {color: #F0B400;}
+#horiz-menu li.sfHover .item span, #horiz-menu li.active .item span, #horiz-menu li.f-menuparent-itemfocus .item span, .style2 #horiz-menu .level2 .item:hover span {color: #F0B400;}
+
+#horiz-menu li.root, .splitmenu li {background: url(../images/style2/showcase/menu-div.png) 100% 0 no-repeat;}
+#horiz-menu li.root-sfHover, #horiz-menu li.root-active, #horiz-menu li.root-f-menuparent-itemfocus, .splitmenu li.sfHover, .splitmenu li.active {background: url(../images/style2/showcase/menu-div.png) 100% 0 no-repeat;}
+
+#main-body ul.menu li, #rightcol .widget ul li, #leftcol .widget ul li {background: url(../images/style2/mainbody/sidecol-h3.png) 0 100% repeat-x;}
+#main-body ul.menu li a, #main-body ul.menu li .separator, #main-body ul.menu li .item, #main-body ul.menu li li a, #main-body ul.menu li li .separator, #main-body ul.menu li li .item,
+#main-body ul.menu li.active li .item, #main-body .widget ul li a, #main-body .widget ul li li a {background: url(../images/style2/mainbody/menu-arrows.png) 5px 13px no-repeat;color: #675430;}
+#main-body ul.menu li a:hover, #main-body ul.menu li .separator:hover, #main-body ul.menu li .item:hover, #main-body ul.menu li.active a, #main-body ul.menu li.active .separator, 
+#main-body ul.menu li.active .item, #main-body ul.menu li.active:hover a, #main-body ul.menu li.active:hover .separator, #main-body ul.menu li.active:hover .item, #main-body .widget ul li a:hover {color: #F0B400;}

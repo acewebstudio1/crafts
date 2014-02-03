@@ -1,0 +1,5 @@
+[15-Sep-2013 13:28:36] PHP Warning:  fopen(temp/b6fd0619f00dc64a3cb447890db56acc.php) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/wwwyour/public_html/wp-content/themes/rt_infuse_wp/timthumb.php on line 573
+[15-Sep-2013 13:28:36] PHP Warning:  curl_setopt(): supplied argument is not a valid File-Handle resource in /home/wwwyour/public_html/wp-content/themes/rt_infuse_wp/timthumb.php on line 581
+[15-Sep-2013 13:28:37] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/wwwyour/public_html/wp-content/themes/rt_infuse_wp/timthumb.php on line 591
+[15-Sep-2013 13:28:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwyour/public_html/wp-content/themes/rt_infuse_wp/timthumb.php:573) in /home/wwwyour/public_html/wp-content/themes/rt_infuse_wp/timthumb.php on line 713
+[23-Jan-2014 18:29:26] PHP Fatal error:  Call to undefined function  get_header() in /home/wwwyour/public_html/wp-content/themes/rt_infuse_wp/404.php on line 7
